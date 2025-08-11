@@ -27,3 +27,4 @@ Some key visualizations include:
 - Attrition rates by age, gender, job role
 - Compensation and performance analysis
 - HR KPIs and metrics
+<img width="1410" height="689" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/0215dd8f-5e65-4dbf-b8ec-1a2132d5a5bc" />
