@@ -1,4 +1,5 @@
-Tableau Projects
+Tableau Projects <img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/fabbee62-b74a-409c-a590-617a357ed6b5" />
+
 This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
 
 Analyzing Employee Trends
